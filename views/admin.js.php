@@ -86,16 +86,6 @@
                     </select>
                 </td>
             </tr>
-            <tr>    
-                <td>Launch Playlist Tray on Load</td>
-                <td>When set to TRUE, will launch Playlist Tray once site loads (default is TRUE)</td>
-                <td>
-                    <select name="m2g_bar_info_tray_on_load">
-                        <option value="true" <?php echo $this->is_info_tray_on_load(); ?> >True</option>
-                        <option value="false" <?php echo $this->is_not_info_tray_on_load(); ?> >False</option>
-                    </select>
-                </td>
-            </tr>
             <tr>
                 <td>Library</td>
                 <td>Enter the variable provided by TuneGenie (If variable has not been provided, leave blank)</td>
