@@ -17,7 +17,7 @@ class Bar {
         'm2g_bar_zindex'=> 5000,
         'm2g_bar_theme'=> '["#000000"]',
         'm2g_bar_position' => 'bottom',
-        'm2g_bar_ios_frame' => '1',
+        'm2g_bar_ios_frame' => '3',
         'm2g_bar_debug'=> 'false',
         'm2g_bar_autostart'=> 'false',
         'm2g_bar_info_tray_on_load'=> 'true',

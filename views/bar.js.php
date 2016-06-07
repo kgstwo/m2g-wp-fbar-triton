@@ -13,7 +13,7 @@ window.tgmplibs='<?php echo $this->get_option('m2g_bar_tgmplibs')?>';
       debug: <?php echo $this->get_option('m2g_bar_debug') ?>,
       ios_frame: <?php echo $this->get_option('m2g_bar_ios_frame') ?>,
       autostart: <?php echo $this->get_option('m2g_bar_autostart') ?>,
-      infoTrayOnLoad: <?php echo $this->get_option('m2g_bar_info_tray_on_load') ?>,
+      infoTrayOnLoad: true,
       useTritonPlayer: <?php echo $this->get_option('m2g_bar_tritonplayer') ?>,
       promptZag: <?php echo $this->get_option('m2g_bar_zag') ?>,
       delayed_frame: true}

@@ -3,7 +3,7 @@
 Plugin Name: TuneGenie Media Player Bar
 Plugin URI: http://www.tunegenie.com/
 Description: Add the TuneGenie Media Player Bar to your wordpress site.
-Version: 0.1.2
+Version: 0.1.1 - Triton
 Author: defmtog
 Author URI: http://www.tunegenie.com
 Copyright: (C) 2014-2015,  by MusicToGo, LCC ("TuneGenie").  All rights reserved.
